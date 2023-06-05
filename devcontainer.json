@@ -16,7 +16,11 @@
         "ms-vscode.makefile-tools",
         "fabiospampinato.vscode-todo-plus",
         "shardulm94.trailing-spaces",
-        "patbenatar.advanced-new-file"
+        "patbenatar.advanced-new-file",
+        "bradlc.vscode-tailwindcss",
+        "mhutchie.git-graph",
+        "csstools.postcss",
+        "esbenp.prettier-vscode"
       ]
     }
   }
