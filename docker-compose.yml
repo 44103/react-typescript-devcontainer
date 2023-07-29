@@ -6,3 +6,4 @@ services:
     command: sleep infinity
     volumes:
       - ../:/workdir
+      - .zsh_history:/root/.zsh_history
