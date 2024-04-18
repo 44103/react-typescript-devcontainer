@@ -10,7 +10,7 @@ RUN export DEBIAN_FRONTEND="noninteractive" && \
   && apt-get clean \
   && rm -rf /var/lib/apt/lists/*
 
-WORKDIR /workdir
+WORKDIR /work
 
 ENV TZ=Asia/Tokyo
 RUN zsh -c "`curl -L raw.github.com/44103/dotfiles/main/install.sh`"

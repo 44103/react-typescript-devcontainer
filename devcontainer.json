@@ -4,7 +4,7 @@
     "docker-compose.yml"
   ],
   "service": "react",
-  "workspaceFolder": "/workdir",
+  "workspaceFolder": "/work",
   "customizations": {
     "vscode": {
       "settings": {

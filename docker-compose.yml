@@ -2,8 +2,8 @@ version: "3"
 services:
   react:
     build: .
-    working_dir: /workdir
+    working_dir: /work
     command: sleep infinity
     volumes:
-      - ../:/workdir
+      - ../:/work
       - .zsh_history:/root/.zsh_history
